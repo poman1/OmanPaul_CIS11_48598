@@ -1,2 +1,3 @@
 Desktop - Push Chapter 3 assignment 1
 Pi - pull updates, Push Log file
+Desktop - Sync, update repo, Push updated log file
